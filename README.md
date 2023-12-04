@@ -8,7 +8,7 @@ After launching the app, users are greeted with a user-friendly interface. They 
 
 The Home screen initially presents a user setup wizard, guiding users through the process of establishing their gym routine. Users first select their preferred gym days, then choose the muscle groups they wish to target on each day. The final step involves selecting specific exercises for each muscle group. Once setup is complete, users are ready to make the most of Gym Buddy!
 
-**Important**
+**Important**:
 Since the gym buddy app is in preview mode, and is not deployed anywhere, when you finish your setup, you are able to scroll through the weekdays as if it was a simulation, so you can see that on different days you will have different exercises and so on.
 
 In future updates, users will have the ability to edit their routine choices.
